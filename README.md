@@ -2,12 +2,12 @@
 
 Optical Character Recognition (OCR) to extract text from the computer screen and performs sentiment analysis on the recognized text.
 
-### INSTALLATION
+### USAGE
 * Dependencies 👉 `requirements.txt` install `pip install -r requirements.txt`
 * Tesseract OCR [Tesseract Wiki](https://github.com/UB-Mannheim/tesseract/wiki) installation instructions.
 * Clone the repository `git clone https://github.com/damakes/REC-OCR-Sentiment-Analysis.git`
 * Run `python REC_OCR.py`
-* Stop program 'q' key press **[on top Window where Recognized Text is shown].**
+* Stop program **'q'** key press **[on top Window where Recognized Text is shown].**
 ---
 PROGRAM IN ACTION:
 
