@@ -1,5 +1,4 @@
-# Screen OCR Analyzer Project
-
+# <pre> Screen OCR Analyzer Project </pre>
 The aim of the project was to make a program that captures and analyzes the content displayed on the user's screen. Created during my third year of Bachelor of Engineering studies at Metropolia UAS, program utilizes (OCR) Optical Character Recognition to extract text from the computer screen and performs sentiment analysis on the recognized text. 
 
 <img src="https://github.com/damakes/REC-OCR-Sentiment-Analysis/assets/155246347/7bc78881-94e3-414b-a599-cae52e340b96" width="400" height="480" >
@@ -22,10 +21,8 @@ Run:
 ```
 python REC_OCR.py
 ```
-Stop:
-```
-Press key 'q' [on top Window where Recognized Text is shown]
-```
+Stop: <pre> Press key 'q' [on top Window where Recognized Text is shown] </pre>
+
 
 
 
